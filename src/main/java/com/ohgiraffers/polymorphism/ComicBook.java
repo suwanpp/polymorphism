@@ -1,5 +1,6 @@
 package com.ohgiraffers.polymorphism;
 
+// 상속
 class ComicBook extends Book {
 
     @Override
