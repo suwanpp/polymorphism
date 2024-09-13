@@ -1,5 +1,6 @@
 package com.ohgiraffers.polymorphism;
 
+// 상속
 class AudioBook extends Book {
 
     @Override

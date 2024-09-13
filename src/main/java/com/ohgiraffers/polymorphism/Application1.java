@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Application1 {
     public static void main(String[] args) {
 
+        // 실행상태
         boolean running = true;
         Scanner sc = new Scanner(System.in);
 

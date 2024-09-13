@@ -1,5 +1,6 @@
 package com.ohgiraffers.polymorphism;
 
+// 추상클래스
 abstract class Book {
     protected String title;
     protected String author;
